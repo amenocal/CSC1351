@@ -1,1 +1,1 @@
-Small programs I did during CSC 1351 at LSU
+Small programs I did while taking CSC 1351 at LSU
